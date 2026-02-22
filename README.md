@@ -1,7 +1,6 @@
 ## Hi there 👋
 
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 <a href="https://wakatime.com/@d7c9fd77-b4ec-481a-956b-6ed66c4df5f1"><img src="https://wakatime.com/badge/user/d7c9fd77-b4ec-481a-956b-6ed66c4df5f1.svg" alt="Total time coded since Jan 28 2026" /></a>
 
 <!--

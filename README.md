@@ -1,13 +1,8 @@
 ## Hi there 👋
 
  <!--START_SECTION:waka-->
-
-```txt
-Java             5 hrs 48 mins         █████████████████████████   99.99 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
 <!--END_SECTION:waka-->
+<a href="https://wakatime.com/@d7c9fd77-b4ec-481a-956b-6ed66c4df5f1"><img src="https://wakatime.com/badge/user/d7c9fd77-b4ec-481a-956b-6ed66c4df5f1.svg" alt="Total time coded since Jan 28 2026" /></a>
 
 <!--
 **zachemmmm/zachemmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
